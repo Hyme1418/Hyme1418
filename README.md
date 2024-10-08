@@ -70,15 +70,15 @@ Implemented a **restaurant queuing system** in Java, applying **object-oriented 
 
 **Cloud & Infrastructure**
 - **Salesforce Marketing Cloud:** AMPscript, SSJS, SQL, Email Studio  
-- **Cloud Services:** Firebase, Heroku, MongoDB Atlas
+- **Cloud Services:** Firebase, MongoDB Atlas
 
 **Software Development & Testing**
 - **Version Control:** Git, GitHub  
 - **Methodologies:** Agile, Waterfall, Requirement Gathering, Software Modeling  
-- **Testing Frameworks:** JUnit, pytest, TestNG
+- **Testing Frameworks:** JUnit
 
 **Other Tools & Technologies**
-- **Project Management Tools:** Jira, Trello  
+- **Project Management Tools:** Trello  
 - **Automation & Data Processing:** SSJS, Salesforce Automation  
 - **Multimedia & Design Tools:** Adobe Premiere Pro, FL Studio 20
 
