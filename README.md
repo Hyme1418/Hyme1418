@@ -8,10 +8,7 @@ A driven and quick-learning **Software Engineering student** with a passion for 
 - **Bachelor of Science in Information and Communication Technology (International Program)**  
   Mahidol University, Nakhon Pathom, Thailand (2021-2025)  
   **GPAX:** 3.74 (Merit Scholarship)
-
-- **Advanced Science & Mathematics Program (Secondary School)**  
-  Assumption College, Bangkok, Thailand
-
+  
 ---
 
 ## 🏆 Featured Projects & Achievements
