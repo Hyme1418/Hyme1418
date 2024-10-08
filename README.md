@@ -10,7 +10,7 @@ A driven and quick-learning **Software Engineering student** with a passion for 
   **GPAX:** 3.74 (Merit Scholarship)
 
 - **Advanced Science & Mathematics Program (Secondary School)**  
-  Assumption College, Bangkok, Thailand (2013-2018)
+  Assumption College, Bangkok, Thailand
 
 ---
 
