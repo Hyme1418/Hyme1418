@@ -13,13 +13,13 @@ A driven and quick-learning **Software Engineering student** with a passion for 
 
 ## 🏆 Featured Projects & Achievements
 
-### 🚀 **[Gemini – Simulated Telescope Control Web App (2024)](https://github.com/arisuyunn/Gemini-EsanIamsing-Backend)**  
+### 🚀 **[Gemini – Simulated Telescope Control Web App (2024)](https://github.com/aritsulynn/Gemini-EsanIamsing-Backend)**  
 Developed a full-stack web application for managing **Gemini telescopes**, which replaced an outdated legacy system. This project enabled streamlined **user login**, **telescope management**, and **data retrieval** from the Observatory Control System (OCS).  
 **Key Technologies:** Java, Spring Boot, JPA, React, RESTful APIs
 
 ---
 
-### 📍 **[Localist: Location-Based To-Do List with Flutter (2024)](https://github.com/arisuyunn/localist)**  
+### 📍 **[Localist: Location-Based To-Do List with Flutter (2024)](https://github.com/aritsulynn/localist)**  
 Built **Localist**, a cross-platform mobile app that integrates **location-based task management** with map functionality. Users can create and manage tasks while tracking locations. The project was developed with **Flutter**, **Firebase** for real-time updates, and **Longdo Maps** for geolocation.  
 **Key Technologies:** Flutter, Dart, Firebase, Longdo Maps API
 
