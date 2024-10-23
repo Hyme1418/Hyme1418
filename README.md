@@ -46,7 +46,7 @@ Implemented a **restaurant queuing system** in Java, applying **object-oriented 
 ## 💼 Internship Experience
 
 - **Developer Intern (Marketing Cloud) - Beryl 8 Plus (2024)**  
-  - Crafted scripts for **data slicing, cleaning**, and **transformation** to optimize workflows and automation.  
+  - Crafted **SSJS scripts** for **data slicing, cleaning**, and **transformation** to optimize workflows and automation.  
   - Created **SQL queries** with test cases for data extraction, ensuring accuracy in customer engagement insights.  
   - Designed dynamic marketing content in **Email Studio** using **AMPscript** and **HTML/CSS**.  
   - Developed a custom **LINE integration** for real-time customer engagement with Salesforce Marketing Cloud, ensuring seamless interaction across platforms.  
