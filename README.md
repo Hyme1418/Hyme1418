@@ -25,7 +25,7 @@ Built **Localist**, a cross-platform mobile app that integrates **location-based
 
 ---
 
-### 💻 **[Booth Management System Simulation (2023)](https://github.com/ICT-Mahidol/2023-ITCS371-1-TAN-TAN)**  
+### 💻 **[Booth Management System Simulation (2023)](https://github.com/ICT-Mahidol/2023-ITCS371-1-TAN-TAN-)**  
 Designed and simulated a real-world **booth management system**, handling software development processes such as requirement gathering, use case modeling, **DFD creation**, and **prototype testing**. Utilized **GitHub** for version control and collaborated with a team to deliver a polished product.  
 **Key Technologies:** Java, GitHub, Software Modeling Tools
 
