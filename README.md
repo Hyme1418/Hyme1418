@@ -13,7 +13,9 @@ A driven and quick-learning **Software Engineering student** with a passion for 
 
 ## 🏆 Featured Projects & Achievements
 
-### 🚀 **Gemini – Simulated Telescope Control Web App (2024) [Frontend](https://github.com/aritsulynn/Gemini-Esanlamsing-Frontend) [Backend](https://github.com/aritsulynn/Gemini-Esanlamsing-Backend)**
+### 🚀 **Gemini – Simulated Telescope Control Web App (2024)** 
+[Frontend](https://github.com/aritsulynn/Gemini-Esanlamsing-Frontend) 
+[Backend](https://github.com/aritsulynn/Gemini-Esanlamsing-Backend)
 Developed a full-stack web application for managing **Gemini telescopes**, which replaced an outdated legacy system. This project enabled streamlined **user login**, **telescope management**, and **data retrieval** from the Observatory Control System (OCS).  
 **Key Technologies:** Java, Spring Boot, JPA, React, RESTful APIs
 
