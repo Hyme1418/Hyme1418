@@ -42,7 +42,7 @@ Designed **automated test cases** for a chatbot using **Jest** for React compone
 **Tech Stack:** React, Jest, Robot Framework  
 
 ### 🌌 **Gemini – Simulated Telescope Control Web App** (2024)  
-**[Frontend](https://github.com/aritsulyn/Gemini-Esanlamsing-Frontend)** | **[Backend](https://github.com/aritsulyn/Gemini-Esanlamsing-Backend)**  
+**[Frontend](https://github.com/Hyme1418/Gemini-Esanlamsing-Frontend)** | **[Backend](https://github.com/Hyme1418/Gemini-Esanlamsing-Backend)**  
 Developed a full-stack **telescope control system** to replace legacy software, enabling remote management of observatory operations.  
 **Tech Stack:** Java, Spring Boot, JPA, React, REST APIs  
 
