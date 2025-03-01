@@ -27,7 +27,7 @@ A **web application** showcasing **authentic Vietnamese cuisine, menu, and resta
 **Tech Stack:** Vue.js, TailwindCSS    
 
 ### 📍 **Localist: Location-Based To-Do List** (2024)  
-**[GitHub Repo](https://github.com/aritsulynn/localist)**  
+**[GitHub Repo](https://github.com/Hyme1418/localist)**  
 A mobile app integrating **location-based task management** using maps and real-time sync.  
 **Tech Stack:** Flutter, Dart, Firebase, Longdo Maps API  
 
@@ -42,7 +42,7 @@ Designed **automated test cases** for a chatbot using **Jest** for React compone
 **Tech Stack:** React, Jest, Robot Framework  
 
 ### 🌌 **Gemini – Simulated Telescope Control Web App** (2024)  
-**[Frontend](https://github.com/aritsulynn/Gemini-Esanlamsing-Frontend)** | **[Backend](https://github.com/aritsulynn/Gemini-Esanlamsing-Backend)**  
+**[Frontend](https://github.com/Hyme1418/Gemini-Esanlamsing-Frontend)** | **[Backend](https://github.com/Hym1418/Gemini-Esanlamsing-Backend)**  
 Developed a full-stack **telescope control system** to replace legacy software, enabling remote management of observatory operations.  
 **Tech Stack:** Java, Spring Boot, JPA, React, REST APIs  
 
