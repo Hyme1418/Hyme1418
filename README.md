@@ -22,7 +22,7 @@ A **Software Engineering student** passionate about **building impactful solutio
 Developing a **real-time scam detection chatbot** for LINE using **LLMs, RAG, and clustering techniques** to detect and classify scams efficiently. Features include scam trend analysis and an alert system.  
 **Tech Stack:** Python, Flowise, FastAPI, Pinecone, Redis
 
-### 🍽️ Vietnam House Restaurant (2025, In Progress)  
+### 🍽️ [Vietnam House Restaurant](https://vietnamhouse.netlify.app/) (2025, Ongoing)  
 A **web application** showcasing **authentic Vietnamese cuisine, menu, and restaurant details**. Designed with a modern UI and seamless navigation.  
 **Tech Stack:** Vue.js, TailwindCSS    
 
