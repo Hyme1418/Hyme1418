@@ -74,10 +74,10 @@ Developed a **restaurant queuing system** with **OOP design patterns** for effic
 ## ⚙️ Skills & Expertise  
 
 ### **Software Development & Automation**  
-- **Programming Languages:** Java, Python, Golang, SQL, JavaScript, Dart  
-- **Web Development:** React, Vue.js, Flask, Node.js  
+- **Programming Languages:** Java, Python, SQL, JavaScript, Dart  
+- **Web Development:** React, Vue.js, Node.js  
 - **Mobile Development:** Flutter, Firebase  
-- **Backend Development:** Spring Boot, FastAPI, REST APIs, GraphQL  
+- **Backend Development:** Spring Boot, FastAPI, REST APIs  
 - **Automation & Testing:** JUnit, Jest, Robot Framework, SSJS, Salesforce Automation  
 
 ### **Database & Cloud Services**  
